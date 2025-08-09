@@ -11,9 +11,8 @@
 
 我给它起名叫：
 
-👉 aicoding.sh
-（积分官网地址：https://aicoding.sh/i/IAPD4jQXV）(账号珍贵 请不要修改注册链接 以免无法赠送积分)
-
+👉 [aicoding.sh](https://aicoding.sh/i/IAPD4jQXV)
+官网地址：[https://aicoding.sh](https://aicoding.sh/i/IAPD4jQXV)
 最妙的是——整个服务几乎 90% 的代码都由 Claude Code 自己生成，我只做了一些组装、部署、和测试，甚至界面都让它帮我配了个简洁风。
 
 ⸻
@@ -36,7 +35,7 @@
 
 ⸻
 
-上线送福利：注册就送 5000 积分！(账号珍贵 请不要修改注册链接 以免无法赠送积分)
+上线送福利：注册就送 5000 积分！(账号珍贵)
 
 为了让更多人可以真正体验到 Claude Code 的开发能力，
 我决定来波小福利：
@@ -62,7 +61,7 @@ Claude 能做什么？我自己试了几个方向：
 
 如果你对 AI 编程感兴趣，或者正需要一个靠谱的 Claude 编程接口服务，欢迎试试：
 
-👉 aicoding.sh
+👉 [aicoding.sh](https://aicoding.sh/i/IAPD4jQXV)
 Claude 自己写出来的“镜像站”，真 · 产自原厂
 
 ⸻
