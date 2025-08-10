@@ -11,8 +11,8 @@
 
 我给它起名叫：
 
-👉 [aicoding.sh](https://aicoding.sh/i/IAPD4jQXV)
-官网地址：[https://aicoding.sh](https://aicoding.sh/i/IAPD4jQXV)
+👉 [aicoding.sh](https://aicoding.sh/i/admin)
+官网地址：[https://aicoding.sh](https://aicoding.sh/i/admin)
 最妙的是——整个服务几乎 90% 的代码都由 Claude Code 自己生成，我只做了一些组装、部署、和测试，甚至界面都让它帮我配了个简洁风。
 
 ⸻
@@ -61,7 +61,7 @@ Claude 能做什么？我自己试了几个方向：
 
 如果你对 AI 编程感兴趣，或者正需要一个靠谱的 Claude 编程接口服务，欢迎试试：
 
-👉 [aicoding.sh](https://aicoding.sh/i/IAPD4jQXV)
+👉 [aicoding.sh](https://aicoding.sh/i/admin)
 Claude 自己写出来的“镜像站”，真 · 产自原厂
 
 ⸻
